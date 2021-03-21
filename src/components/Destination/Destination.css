@@ -1,0 +1,36 @@
+input,.search-btn{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    outline: none;
+    border-radius: 5px;
+    background-color: #efefef
+}
+label{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+
+}
+.input-container{
+    padding: 10px;
+    background:#ffffff;
+}
+
+.search-btn{
+    background:#1e7e34;
+    color: #fff;
+    font-weight: 500;
+    outline: none;
+    margin-top: 15px;
+    border: none;
+}
+.show-results img{
+    width:50px;
+}
+.show-results p{
+    margin: 0;
+}
+iframe{
+    width:100%;
+    height: 100%;
+}

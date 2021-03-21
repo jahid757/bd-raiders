@@ -1,0 +1,45 @@
+.login-form{
+    width: 400px;
+    background:#fff;
+    margin:auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.login-form form input{
+    width: 100%;
+    padding: 10px;
+    border:none;
+    outline:none;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+}
+.login-form form input[type="checkbox"]{
+    padding: 0;
+    width: fit-content;
+    margin-right: 5px;
+}
+.login-form form input[type="submit"]{
+    background:#1e7e34;
+    border-radius: 5px;
+    font-weight: 16px;
+    font-weight: 500;
+    color: #fff;
+}
+.filedError{
+    color: red;
+}
+.login-provider{
+    width: 100%;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    font-weight: 600;
+}
+.google{
+    background-color: #DB4437;
+}
+.facebook{
+    background-color:  #3b5998;
+}

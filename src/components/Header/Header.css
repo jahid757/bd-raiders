@@ -1,0 +1,22 @@
+.header{
+    background:#454545;
+    display:flex;
+    align-items:center;
+    padding-top: 10px;
+}
+.header h2{
+    color:#fff;
+}
+.navLink li{
+    display:inline-block;
+    padding:10px 20px;
+}
+.navLink li a,.userName {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+
+}
+.navLink li a:hover{
+    text-decoration: none;
+}

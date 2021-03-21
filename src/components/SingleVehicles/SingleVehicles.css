@@ -1,0 +1,16 @@
+.info{
+    box-sizing: border-box;
+    padding: 10px;
+    background:#fff;
+    height:250px;
+    text-align: center;
+}
+.info img{
+    height:200px;
+}
+.text-black{
+    color:#000;
+}
+a:hover{
+    text-decoration: none;
+}
