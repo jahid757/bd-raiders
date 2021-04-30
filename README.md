@@ -9,6 +9,11 @@ Back End : Node, Mongo, Express
 
 Deploy: Firebase, Heroku
 
+Some Rules
+
+1. You Cannot Visit destination page without login.
+2. Password Type uppercase A-Z , lowercase a-z , number , and minimum one spacial careener
+
 
 Custom login, Google login, Facebook login system has been used in this website.
 
